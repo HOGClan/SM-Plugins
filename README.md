@@ -1,2 +1,2 @@
 # SM-Plugins
-Useful plugins and scripts for games on the Source engine.
+Here I will publish plugins for my game server, some of them can be used publicly
